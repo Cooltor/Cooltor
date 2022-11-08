@@ -9,7 +9,7 @@
 ```javascript
 const rom = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, PHP, HTML, CSS],
   tools: [React, Node, MySQL],
   environment: {
                         speaking: "French", "English",

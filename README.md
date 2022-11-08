@@ -4,11 +4,7 @@
 </em></p>
 
 
-[![Linkedin: romaindubus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romaindubus/)](https:https://www.linkedin.com/in/romain-dubus-a59895213/)
-[![GitHub Cooltor](https://img.shields.io/github/followers/cooltor?label=follow&style=social)](https://github.com/Cooltor)
-
-
-### <iframe src="https://giphy.com/embed/x24pvB0DbEAG5Xemm8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coworking-nataliebyrne-workwithme-x24pvB0DbEAG5Xemm8">via GIPHY</a></p> A little more about me...  
+### <img src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif> A little more about me...  
 
 ```javascript
 const rom = {

@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: romaindubus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https:https://www.linkedin.com/in/romain-dubus-a59895213/)
+[![Linkedin: romaindubus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romaindubus/)](https:https://www.linkedin.com/in/romain-dubus-a59895213/)
 [![GitHub Cooltor](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Cooltor)
 
 

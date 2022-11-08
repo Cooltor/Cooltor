@@ -5,7 +5,7 @@
 
 
 [![Linkedin: romaindubus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romaindubus/)](https:https://www.linkedin.com/in/romain-dubus-a59895213/)
-[![GitHub Cooltor](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Cooltor)
+[![GitHub Cooltor](https://img.shields.io/github/followers/cooltor?label=follow&style=social)](https://github.com/Cooltor)
 
 
 ### <iframe src="https://giphy.com/embed/x24pvB0DbEAG5Xemm8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coworking-nataliebyrne-workwithme-x24pvB0DbEAG5Xemm8">via GIPHY</a></p> A little more about me...  

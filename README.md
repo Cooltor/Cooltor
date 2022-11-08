@@ -8,7 +8,7 @@
 
 ```javascript
 const rom = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, PHP, HTML, CSS],
   tools: [React, Node, MySQL],
   environment: {

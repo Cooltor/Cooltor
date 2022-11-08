@@ -1,5 +1,5 @@
 <h2> Hi, I'm Romain Dubus! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966 width="230">
+<img align='right' src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" width="230">
 <p><em>Web developer student at <a href="http://www.wf3.fr">WebForce3</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Life photographer at <a href="https://www.instagram.com/romdub86/">Home sweet home</a><img src="https://media.giphy.com/media/VI8dCCQG296YR871uf/giphy.gif" width="30"> 
 </em></p>
 

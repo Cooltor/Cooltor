@@ -13,7 +13,7 @@ const rom = {
   tools: [React, Node, MySQL],
   environment: {
                         speaking: "French", "English",
-                        passtime: "portrait_photography",
+                        enjoy: "portrait_photography",
         
                       },
  }

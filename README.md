@@ -9,11 +9,12 @@
 ```javascript
 const rom = {
   pronouns: "he" | "him",
-  code: [Javascript, PHP, HTML, CSS],
-  tools: [React, Node, MySQL],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, MongoDB, MySQL],
   environment: {
-                        speaking: "French", "English",
-                        enjoy: "portrait_photography",
+                        speaking: ["French", "English"],
+                        enjoy: ["portrait_photography"],
+                        games: ["PS5", "Switch"]
         
                       },
  }

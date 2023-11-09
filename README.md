@@ -1,10 +1,10 @@
-<h2> Hi, I'm Romain Dubus! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Romain Dubus! </h2>
 <img align='right' src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="230">
 <p><em>JavaScript front-end web developer ></br>Life photographer at <a href="https://www.instagram.com/romdub86/" target="blank">Home sweet home</a><img src="https://media.giphy.com/media/VI8dCCQG296YR871uf/giphy.gif" width="30"> 
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 const rom = {

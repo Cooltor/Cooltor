@@ -20,7 +20,7 @@ const rom = {
  }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://app.daily.dev/cooltor"><img src="https://api.daily.dev/devcards/v2/9HVA4W3GW8yJtdeO07lMm.png?r=wlz&type=default" width="356" alt="Romain Dubus's Dev Card"/></a>
 
 ---
 
